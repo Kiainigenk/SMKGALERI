@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://smkn1siatasbarita.netlify.app/"
 languageCode = "en-us"
 title = "SMK_GALERI"
 theme = "autophugo"
@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "term"]
 #    category = "categories"
 
 [Author]
-    name = "Karl Sickendick"
-    email = "kc0bfv@gmail.com"
+    name = "SMK NEGERI 1 SIATAS BARITA"
+    email = "mahesahizkia@gmail.com"
 
 [params]
     # Meta
@@ -88,7 +88,7 @@ disableKinds = ["taxonomy", "term"]
     # - you're done. Happy mailing!
 
     [params.footer.contact]
-    hide = false # Set this to true if you don't want to have a contact form on your site
+    hide = true # Set this to true if you don't want to have a contact form on your site
     realEmail = "example@example.org"
     headline = "Get in touch"
     buttonText = "Send"
